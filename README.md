@@ -1,16 +1,36 @@
-## Hi there 👋
+<img align="right" width="240" src="https://sportshub.cbsistatic.com/i/2023/12/18/aa93ebed-655e-4214-b844-4bb6b8c779fc/bocchi-the-rock-movie-poster-ryo-yamada.jpg?width=1200" alt="Ryo Yamada">
 
-<!--
-**lilyoffline/lilyoffline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### hai, i'm lilian. ♡
 
-Here are some ideas to get you started:
+20 · she/her  
+somewhere between online and offline.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+i like computers, music, rhythm games  
+and things that everyone else has forgotten about.
+
+mostly building things for my own amusement.  
+whether they're useful is another question.
+
+### currently working on
+
+- [torii-msn](https://github.com/lilyoffline/torii-msn)  
+  bringing a little bit of 2009 back to life.
+
+### things i like
+
+- networking & infrastructure
+- reverse engineering
+- forgotten software
+- osu!
+- kessoku band
+- unnecessarily expensive hobbies
+
+### currently listening to
+
+♪ カラカラ — 結束バンド
+
+---
+
+*being a little weird is part of the charm.*
+
+𓆩 ♡ 𓆪
